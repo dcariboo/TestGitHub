@@ -1,1 +1,9 @@
 This is my master file File1.txt
+
+<add feature1 here>
+Here is my new feature
+<end feature1> 
+
+<add feature1b here>
+Here is my feature1b
+<end feature1b>
